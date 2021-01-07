@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on all aspects of in and around java.
+- 🤔 I’m looking for help with opportnities.
+- ⚡ Fun fact: A singer in a profoundly built engineering wrapper class with awesome inbuilt catch.
 <!--
 **DIVYANSHU-K/DIVYANSHU-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
